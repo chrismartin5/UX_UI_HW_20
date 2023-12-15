@@ -294,3 +294,7 @@ display: flex;
 .projectButtons a {
     color: black;
 }
+
+.jumbotron {
+    background-color: white;
+}
