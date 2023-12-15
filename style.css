@@ -298,3 +298,13 @@ display: flex;
 .jumbotron {
     background-color: white;
 }
+
+.backButton {
+    color: black;
+    padding: 10px;
+}
+
+.backDiv {
+    padding-left: 100px;
+    padding-top: 20px;
+}
